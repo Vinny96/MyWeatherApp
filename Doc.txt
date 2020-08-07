@@ -1,0 +1,5 @@
+The goal of this app is to display the current weather for any location the user types in and if they choose to press the location button.
+There will be another button called more details and what this button will do is show the user more details about the weather in their given location. This will show more details of the weather in their location on a different screen.The more details will also show the description of the weather as well. 
+The networking event has been made
+The weather elements are changing according to the data
+Now we need to seguway into a new viewControllr and provideo more details such as, description of the weather, the highs and the lows along with feels like and humidity. 
